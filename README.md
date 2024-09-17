@@ -9,7 +9,7 @@
 :woman_technologist: About Me :
 I'm a Front-end developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ukraine.
 </br>
-Currently learning JavaScript, TypeScript, React, Redux-Toolkit.
+I'm a Front-End developer specializing in React.js with more than 2 years of experience in web application development.
 </div>
 <br/>
 :hammer_and_wrench: Languages and Tools :
